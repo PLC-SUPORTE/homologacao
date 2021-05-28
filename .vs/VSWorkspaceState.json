@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Painel",
+    "\\app\\Http\\Controllers\\Painel\\Nota",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\painel",
+    "\\resources\\views\\painel\\Nota"
+  ],
+  "SelectedNode": "\\resources\\views\\painel\\Nota\\step2.blade.php",
+  "PreviewInSolutionExplorer": false
+}
